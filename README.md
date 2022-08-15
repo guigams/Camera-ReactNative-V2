@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=tj58H9eAJv0
 https://onebitcode.com/aula-6-curso-react-native-aprendiz/
 https://www.youtube.com/watch?v=efljuG37KJU
 
+### 🗣 Confira a primeira versão feita deste projeto!
+https://github.com/guigams/Camera-React-Native
+
 # Getting Started with Create React App
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
